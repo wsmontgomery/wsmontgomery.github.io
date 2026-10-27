@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme:minima
 title: Daily IT Security Briefing by W. Scott Montgomery
 description: IT Security News for the Day from Multiple Sources
