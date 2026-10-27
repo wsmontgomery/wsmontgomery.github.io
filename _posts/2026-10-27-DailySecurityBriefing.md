@@ -3,7 +3,6 @@ layout: post
 title: "Daily Security Briefing for October 27, 2026"
 date: 2026-10-27
 ---
- 
 PHP2Shell Lands on the KEV, and a Backup App Becomes a Way Into Microsoft 365
 
 By W. Scott Montgomery, Director of Security, Digital Elevation  |  October 27, 2026
